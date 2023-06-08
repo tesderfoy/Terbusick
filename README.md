@@ -1,4 +1,3 @@
-# Terbusick
 # Electronic Journal
 
 ![image](https://github.com/tesderfoy/Terbusick/assets/98217566/6c37577e-caeb-420c-b12d-9ca9cca688bf)
