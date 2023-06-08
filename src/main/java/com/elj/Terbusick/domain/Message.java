@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 
 
 @Entity
-@Table(name = "users")
+@Table(name = "mes")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -23,6 +23,7 @@ public class Message {
     private String text;
 
     private String tag;
+
 
     public Message(String text, String tag){
         this.text= text;
